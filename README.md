@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🌱 I’m currently a Master's student enrolling in a fully-funded Erasmus Mundus program called Green Networking and Cloud Computing (2021 - 2023) 
+- 🔭 I’m currently working on Software Engineering with Java, Javascript, AWS, etc.
+- 💬 I'm very interested in solving software engineering problems and eager to learn new knowledge, new technologies on a daily basis.
+
 [![](https://raw.githubusercontent.com/halo93/halo93/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/halo93/halo93/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/halo93/halo93/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
