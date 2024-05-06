@@ -1,5 +1,5 @@
 ### Hello, Geeks 👋. It's Long, nice to meet you!
-- 🌱 I’m currently a Master's student enrolling in a fully-funded Erasmus Mundus program called Green Networking and Cloud Computing (2021 - 2023) 
+- 🌱 Erasmus Mundus Green Networking and Cloud Computing Alumni (2021 - 2023) 
 - 🔭 I’m currently working on Software Engineering with Java, Javascript, AWS, etc.
 - 💬 I'm very interested in solving software engineering problems and eager to learn new knowledge, new technologies on a daily basis.
 
